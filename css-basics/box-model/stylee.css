@@ -1,0 +1,38 @@
+p{
+    background-color:   orange;
+    border: 10px solid  mediumturquoise;
+    margin: 20px 10px 9px 12px;
+    padding-right: 20px;
+    box-shadow: 12px 13px 14px 0.4;
+
+    
+}
+
+
+a{
+    background-color:  beige;
+    color: cornflowerblue;
+    display: inline-flexbox;
+    margin: 20px;
+
+} 
+
+
+body{
+    background-color: grey;
+
+}
+.card{
+    width: 300px;
+    background-color: aqua;
+}
+.card-image img{
+
+    width:100%;
+}
+.card-details{
+    padding: 0px 0px 20px 20px;
+}
+.card-imge{
+    width: 100%;
+}

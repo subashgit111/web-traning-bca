@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    color: aqua;
+    background-color: pink;
+    padding: 20px 0;
+    display:flex;
+    justify-content: center;
+}
+
+.menu{
+    width:900px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.links{
+    display: flex;
+    gap: 10px;
+}
+
+hero-container{
+    background-color: green;
+}
+
+.hero{
+    background-color: brown;
+    display: flex;
+    width: 900px;
+    height: 400px;
+    align-items: center;
+    
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+.images{
+    width: 900px;
+}
